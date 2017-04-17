@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://pic.dooland.com/project/shoutu/iPhone/shoutu.ipa</string>
+					<string>http://pic.dooland.com/project/shoutu/iphone/shoutulib.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dooland.shoutuiphone</string>
+				<string>dooland.DLDShoutu.shoutulib</string>
 				<key>bundle-version</key>
-				<string>2.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
